@@ -1,0 +1,5 @@
+*.sc.bak
+.playwright-mcp
+.DS_Store
+.~*.lock
+opencode.json
